@@ -68,4 +68,6 @@ public class Items {
     public void setDetail(String detail) {
         this.detail = detail;
     }
+	//这是张三的代码
+	//写了10年代码还是2光棍
 }
